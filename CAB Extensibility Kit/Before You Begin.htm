@@ -1,0 +1,254 @@
+﻿<html>
+	<head>
+		<title>Infragistics CAB Extensibility Kit™ Readme</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<style>			
+			body {
+				background-image:url(background.jpg);
+				background-repeat:repeat-x;
+				margin-left: 0px;
+				margin-top: 0px;
+				margin-right: 0px;
+				margin-bottom: 0px;
+				font-size:11;
+				}
+			/* Font Definitions */ 
+			@font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4;}
+			@font-face {font-family:Georgia; panose-1:2 4 5 2 5 4 5 2 3 3;}
+			/* Style Definitions */ 
+			a:link {color:#4da2e4; text-decoration:underline;}
+			a:visited {color:#4da2e4; text-decoration:underline;}
+			a:hover { text-decoration: none; color: #1e2f4d;}
+			p.prodname {font-family:Verdana; color:black; font-size: 16pt; font-weight:bold;}
+			p.topheader {font-family:Verdana; color:black; font-size: 9pt; font-weight:bold; text-align:left;}
+			p.header {font-family:Verdana; color:black; font-size: 10pt; font-weight:bold;}
+			p.body {font-family:Verdana; color:black; font-size: 8pt; line-height:18px;}
+			div.body {font-family:Verdana; color:black; font-size: 8pt; line-height:18px;}
+			div.tablebody {font-family:Verdana; color:black; font-size: 7pt; line-height:18px;}
+			/* List Definitions */ 
+			ol {margin-bottom:0in;}
+			ul {margin-bottom:0in;}
+			
+			#wrapper {
+				margin-left: 40px;
+			}
+			#topLinks {
+				margin-left: 75px;
+			}
+		</style>
+	</head>
+	<body lang="EN-US" vLink="blue" link="blue" bgColor="white">
+		<table width="741" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="header.jpg" width="741" height="149"></td>
+          </tr>
+          <tr>
+            <td background="table_bg.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+              <td width="5%">&nbsp;</td>
+                    <td width="87%" class="topheader">
+						<p class="prodname">Infragistics CAB Extensibility Kit™<br />
+                        <p>&nbsp;</p></td>
+                    <td width="8%" class="topheader">&nbsp;</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td class="topheader">
+					<p class="body">
+						<a href="#Introduction">Introduction</a><br />
+					    <a href="#Assemblies">Assemblies</a><br />
+						<a href="#GettingStarted">Getting Started</a><br />
+						<a href="#Workspaces">Workspaces</a><br />
+						<a href="#UIElementManagers">UIElementManagers</a><br />
+						<a href="#UIElementCommandAdapters">UIElement Command Adapters</a><br />
+						<a href="#InkSupport">Ink Support</a><br />
+						<a href="#CABApplicationClasses">CAB Application Classes</a><br />
+					</p>
+				
+					<a name="Introduction">
+						<p class="header">Introduction</p>
+					</a>			
+					<p class="body">The Infragistics CAB Extensibility Kit is an add-on to the Infragistics Windows Forms (CLR 
+                        4) 
+					product. This add-on allows your Infragistics Windows Forms toolset to interoperate with the Microsoft Composite 
+					UI Application Block (CAB) framework.</p>
+					<p class="body"><b>Note:</b> For more details on the Infragistics CAB Extensibility Kit, refer to the "Infragistics CAB 
+					Extensibility Kit" section in the Infragistics Windows Forms help.</p>
+					
+
+					<a name="Assemblies">
+						<p class="header">Assemblies</p>
+					</a>
+					<p class="body">To build a Windows Forms application using the Infragistics CAB Extensibility Kit, the following 
+					assemblies are required:</p>
+					<div class="body">
+						<ul>
+							<li>Microsoft CAB Assemblies</li>
+							<em>(</em><strong><em>Note:</em></strong><em> Microsoft provides these assemblies 
+                                for CLR 2.0 only.&nbsp; In theory, these can be used in any CAB application 
+                                targeting CLR 4. However, if a developer discovers an incompatability in their 
+                                CLR 4 implementation, they will need to re-compile the Microsoft source code for 
+                                these assemblies against CLR 4.)</em>&nbsp;&nbsp;
+							<ul>
+								<li>Microsoft.Practices.CompositeUI</li>
+								<li>Microsoft.Practices.CompositeUI.WinForms</li>
+								<li>Microsoft.Practices.ObjectBuilder</li>
+							</ul>
+							<li>Infragistics Assemblies</li>
+							<ul>
+								<li>Infragistics4.Shared.vX.X</li>
+								<li>Infragistics4.Win.UltraWinDock.vX.X</li>
+								<li>Infragistics4.Win.UltraWinExplorerBar.vX.X</li>
+								<li>Infragistics4.Win.UltraWinStatusBar.vX.X</li>
+								<li>Infragistics4.Win.UltraWinTabbedMdi.vX.X</li>
+								<li>Infragistics4.Win.UltraWinTabControl.vX.X</li>
+								<li>Infragistics4.Win.UltraWinToolbars.vX.X</li>
+								<li>Infragistics4.Win.UltraWinTree.vX.X</li>
+								<li>Infragistics4.Win.vX.X</li>
+							</ul>	
+						</ul>
+					</div>	
+					<p class="body">To deploy your CAB application, the following assemblies are required:</p>
+					<div class="body">
+						<ul>
+							<li>Infragistics.Practices.CompositeUI.WinForms</li>
+							<li>Microsoft.Practices.CompositeUI</li>
+							<li>Microsoft.Practices.CompositeUI.WinForms</li>
+							<li>Microsoft.Practices.ObjectBuilder</li>
+							<li>Any Infragistics assemblies for Infragistics controls/components used in the CAB application</li>
+						</ul>
+					</div>
+					
+					<a name="GettingStarted">
+						<p class="header">Getting Started</p>
+					</a>
+					<div class="body">
+						<ol>
+							<li>Download the Microsoft Smart Client Software Factory, which includes the Microsoft CAB dlls:<br />
+							<a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=2B6A10F9-8410-4F13-AD53-05A202FBDB63&displaylang=en">
+							http://www.microsoft.com/downloads/details.aspx?FamilyId=2B6A10F9-8410-4F13-AD53-05A202FBDB63&displaylang=en</a>						
+							</li>
+							<li>Make sure that you review Microsoft’s documentation and quick-start samples to familiarize 
+							yourself with the CAB framework:<br />
+							<a href="http://msdn2.microsoft.com/en-us/library/aa480450.aspx">
+							http://msdn2.microsoft.com/en-us/library/aa480450.aspx</a>
+							</li>
+							<li>Open the Infragistics CompositeUI Solution located in the 
+							"[Infragistics_samples_folder]\[version]\CAB Extensibility Kit" folder 
+							and compile it.<br />
+							<b>Note:</b> 
+							<div class="body">
+							<ul>
+								<li>[Infragistics_samples_folder] resolves to  
+								"C:\Documents and Settings\All Users\Documents\Infragistics" on Windows XP, and 
+								"C:\Users\Public\Documents\Infragistics" on Windows Vista.</li>
+								<li>The solution files in the Infragistics CAB Extensibility Kit are designed 
+								to use relative references to the Microsoft CAB. If the references are not found, you 
+								can remove the references and re-add them from the appropriate location, or you can 
+								change the path property on the reference to the appropriate location.</li>
+							</ul>
+							</div>
+							<li>Use the Infragistics CompositeUI Solution in your CAB project by doing either of 
+							the following:
+							<ul>
+								<li>Open and compile the Infragistics.CompositeUI.WinForms.sln file. This solution 
+								outputs the Infragistics.CompositeUI.WinForms.dll assembly.  Once you have this assembly 
+								compiled, reference it in your CAB project.</li>
+								<li>From your CAB project, reference the projects in the Infragistics.CompositeUI.WinForms.sln 
+								file.</li>
+							</ul>
+							</li>
+							<li>Open the BankTeller.sln file to run the Microsoft bank teller quick-start application 
+							that was ported to use Infragistics-specific CAB workspaces, UIElementManagers, and controls and 
+							components. (This file is located in the "\CAB Extensibility Kit\Samples\BankTeller" folder.) Use 
+							this quick-start application to familiarize yourself with the integration of Infragistics 
+							Windows Forms and the CAB framework.</li>
+							<li>Review the Starter Kits provided in the "\CAB Extensibility Kit\Samples" folder. These are a 
+							great way for you to become familiar with the product so you can get up and running as quickly 
+							as possible.</li> 							
+						</ol>
+					</div>
+						
+					<a name="Workspaces">
+						<p class="header">Workspaces</p>
+					</a>			
+					<p class="body">The Infragistics CAB Extensibility Kit includes the following Infragistics-specific CAB 
+					workspaces:</p>
+					<div class="body">
+						<ul>
+							<li>UltraDockWorkspace</li>
+							<li>UltraExplorerBarWorkspace</li>
+							<li>UltraMdiTabWorkspace</li>
+							<li>UltraTabWorkspace</li>
+							<li>UltraToolbarsManagerWorkspace</li>
+						</ul>
+					</div>
+					
+					<a name="UIElementManagers">
+						<p class="header">UIElementManagers</p>
+					</a>			
+					<p class="body">The Infragistics CAB Extensibility Kit includes the following Infragistics-specific 
+					UIElementManagers:</p>
+					<div class="body">
+						<ul>
+							<li>ToolbarsManager</li>
+							<li>TreeView</li>
+							<li>ExplorerBar</li>
+							<li>StatusBar</li>
+						</ul>
+					</div>
+					
+					<a name="UIElementCommandAdapters">
+						<p class="header">UIElement Command Adapters</p>
+					</a>			
+					<p class="body">The Infragistics CAB Extensibility Kit includes the following Infragistics-specific UIElement 
+					Command Adapters:</p>
+					<div class="body">
+						<ul>
+							<li>ToolBase</li>
+							<li>UltraStatusPanel</li>
+							<li>UltraExplorerBarItem</li>
+                            <li>UltraExplorerBarGroup</li>
+                            <li>UltraTreeNode</li>
+						</ul>
+					</div>
+					
+					<a name="InkSupport">
+						<p class="header">Ink Support</p>
+					</a>			
+					<p class="body">Our base application class (IGWindowsFormsApplicationBase) includes the ProvideInkSupport property, 
+					which is a virtual property that is used to determine whether the shell should create a WinInkProvider for each 
+					container control in the application. By default, we will do so on a Tablet PC system when the Tablet PC SDK and 
+					our Infragistics.Win.UltraWinInkProvider assembly are installed. This lets the SmartPart developers avoid having 
+					to include a dependency on the Infragistics.Win.UltraWinInkProvider assembly; therefore, the shell developer can 
+					decide whether or not ink support should be included.</p>
+					
+					<a name="CABApplicationClasses">
+						<p class="header">CAB Application Classes</p>
+					</a>			
+					<p class="body">The Infragistics CAB Extensibility Kit includes the following two main CAB application classes:</p>
+					<div class="body">
+						<ul>
+							<li>IGFormShellApplication</li>
+							<li>IGApplicationContextApplication</li>
+						</ul>
+					</div>
+					
+				
+			<p>&nbsp;</p>
+			<p class="body">© Copyright 2001-2007 Infragistics, Inc., <br>
+			  Windsor Corporate Park, 50 Millstone Road, Building 200 - Suite 150, East Windsor, NJ 08520 USA<br>
+			  Voice (609) 448-2000, Fax (609) 448-2017, <a href="http://www.infragistics.com/">http://www.infragistics.com</a></p></td>
+                <td class="topheader">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+
+          <tr>
+            <td><img src="footer.jpg" width="741" height="55"></td>
+          </tr>
+        </table>
+		<p align="center">&nbsp;</p>
+		<div id="topLinks"></div>
+		</body>
+</html>

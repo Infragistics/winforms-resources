@@ -1,0 +1,1397 @@
+<?xml version="1.0" standalone="yes"?>
+<Pubs xmlns="http://www.tempuri.org/Pubs.xsd">
+  <authors>
+    <au_id>172-32-1176</au_id>
+    <au_lname>White</au_lname>
+    <au_fname>Johnson</au_fname>
+    <phone>408 496-7223</phone>
+    <address>10932 Bigge Rd.</address>
+    <city>Menlo Park</city>
+    <state>CA</state>
+    <zip>94025</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>213-46-8915</au_id>
+    <au_lname>Green</au_lname>
+    <au_fname>Marjorie</au_fname>
+    <phone>415 986-7020</phone>
+    <address>309 63rd St. #411</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94618</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>238-95-7766</au_id>
+    <au_lname>Carson</au_lname>
+    <au_fname>Cheryl</au_fname>
+    <phone>415 548-7723</phone>
+    <address>589 Darwin Ln.</address>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <zip>94705</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>267-41-2394</au_id>
+    <au_lname>O'Leary</au_lname>
+    <au_fname>Michael</au_fname>
+    <phone>408 286-2428</phone>
+    <address>22 Cleveland Av. #14</address>
+    <city>San Jose</city>
+    <state>CA</state>
+    <zip>95128</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>274-80-9391</au_id>
+    <au_lname>Straight</au_lname>
+    <au_fname>Dean</au_fname>
+    <phone>415 834-2919</phone>
+    <address>5420 College Av.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94609</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>341-22-1782</au_id>
+    <au_lname>Smith</au_lname>
+    <au_fname>Meander</au_fname>
+    <phone>913 843-0462</phone>
+    <address>10 Mississippi Dr.</address>
+    <city>Lawrence</city>
+    <state>KS</state>
+    <zip>66044</zip>
+    <contract>false</contract>
+  </authors>
+  <authors>
+    <au_id>409-56-7008</au_id>
+    <au_lname>Bennet</au_lname>
+    <au_fname>Abraham</au_fname>
+    <phone>415 658-9932</phone>
+    <address>6223 Bateman St.</address>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <zip>94705</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>427-17-2319</au_id>
+    <au_lname>Dull</au_lname>
+    <au_fname>Ann</au_fname>
+    <phone>415 836-7128</phone>
+    <address>3410 Blonde St.</address>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <zip>94301</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>472-27-2349</au_id>
+    <au_lname>Gringlesby</au_lname>
+    <au_fname>Burt</au_fname>
+    <phone>707 938-6445</phone>
+    <address>PO Box 792</address>
+    <city>Covelo</city>
+    <state>CA</state>
+    <zip>95428</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>486-29-1786</au_id>
+    <au_lname>Locksley</au_lname>
+    <au_fname>Charlene</au_fname>
+    <phone>415 585-4620</phone>
+    <address>18 Broadway Av.</address>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94130</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>527-72-3246</au_id>
+    <au_lname>Greene</au_lname>
+    <au_fname>Morningstar</au_fname>
+    <phone>615 297-2723</phone>
+    <address>22 Graybar House Rd.</address>
+    <city>Nashville</city>
+    <state>TN</state>
+    <zip>37215</zip>
+    <contract>false</contract>
+  </authors>
+  <authors>
+    <au_id>648-92-1872</au_id>
+    <au_lname>Blotchet-Halls</au_lname>
+    <au_fname>Reginald</au_fname>
+    <phone>503 745-6402</phone>
+    <address>55 Hillsdale Bl.</address>
+    <city>Corvallis</city>
+    <state>OR</state>
+    <zip>97330</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>672-71-3249</au_id>
+    <au_lname>Yokomoto</au_lname>
+    <au_fname>Akiko</au_fname>
+    <phone>415 935-4228</phone>
+    <address>3 Silver Ct.</address>
+    <city>Walnut Creek</city>
+    <state>CA</state>
+    <zip>94595</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>712-45-1867</au_id>
+    <au_lname>del Castillo</au_lname>
+    <au_fname>Innes</au_fname>
+    <phone>615 996-8275</phone>
+    <address>2286 Cram Pl. #86</address>
+    <city>Ann Arbor</city>
+    <state>MI</state>
+    <zip>48105</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>722-51-5454</au_id>
+    <au_lname>DeFrance</au_lname>
+    <au_fname>Michel</au_fname>
+    <phone>219 547-9982</phone>
+    <address>3 Balding Pl.</address>
+    <city>Gary</city>
+    <state>IN</state>
+    <zip>46403</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>724-08-9931</au_id>
+    <au_lname>Stringer</au_lname>
+    <au_fname>Dirk</au_fname>
+    <phone>415 843-2991</phone>
+    <address>5420 Telegraph Av.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94609</zip>
+    <contract>false</contract>
+  </authors>
+  <authors>
+    <au_id>724-80-9391</au_id>
+    <au_lname>MacFeather</au_lname>
+    <au_fname>Stearns</au_fname>
+    <phone>415 354-7128</phone>
+    <address>44 Upland Hts.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94612</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>756-30-7391</au_id>
+    <au_lname>Karsen</au_lname>
+    <au_fname>Livia</au_fname>
+    <phone>415 534-9219</phone>
+    <address>5720 McAuley St.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94609</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>807-91-6654</au_id>
+    <au_lname>Panteley</au_lname>
+    <au_fname>Sylvia</au_fname>
+    <phone>301 946-8853</phone>
+    <address>1956 Arlington Pl.</address>
+    <city>Rockville</city>
+    <state>MD</state>
+    <zip>20853</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>846-92-7186</au_id>
+    <au_lname>Hunter</au_lname>
+    <au_fname>Sheryl</au_fname>
+    <phone>415 836-7128</phone>
+    <address>3410 Blonde St.</address>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <zip>94301</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>893-72-1158</au_id>
+    <au_lname>McBadden</au_lname>
+    <au_fname>Heather</au_fname>
+    <phone>707 448-4982</phone>
+    <address>301 Putnam</address>
+    <city>Vacaville</city>
+    <state>CA</state>
+    <zip>95688</zip>
+    <contract>false</contract>
+  </authors>
+  <authors>
+    <au_id>899-46-2035</au_id>
+    <au_lname>Ringer</au_lname>
+    <au_fname>Anne</au_fname>
+    <phone>801 826-0752</phone>
+    <address>67 Seventh Av.</address>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84152</zip>
+    <contract>true</contract>
+  </authors>
+  <authors>
+    <au_id>998-72-3567</au_id>
+    <au_lname>Ringer</au_lname>
+    <au_fname>Albert</au_fname>
+    <phone>801 826-0752</phone>
+    <address>67 Seventh Av.</address>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84152</zip>
+    <contract>true</contract>
+  </authors>
+  <employee>
+    <emp_id>PMA42628M</emp_id>
+    <fname>Paolo</fname>
+    <minit>M</minit>
+    <lname>Accorti</lname>
+    <job_id>13</job_id>
+    <job_lvl>35</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1992-08-27T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PSA89086M</emp_id>
+    <fname>Pedro</fname>
+    <minit>S</minit>
+    <lname>Afonso</lname>
+    <job_id>14</job_id>
+    <job_lvl>89</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1990-12-24T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>VPA30890F</emp_id>
+    <fname>Victoria</fname>
+    <minit>P</minit>
+    <lname>Ashworth</lname>
+    <job_id>6</job_id>
+    <job_lvl>140</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1990-09-13T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>H-B39728F</emp_id>
+    <fname>Helen</fname>
+    <minit> </minit>
+    <lname>Bennett</lname>
+    <job_id>12</job_id>
+    <job_lvl>35</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1989-09-21T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>L-B31947F</emp_id>
+    <fname>Lesley</fname>
+    <minit> </minit>
+    <lname>Brown</lname>
+    <job_id>7</job_id>
+    <job_lvl>120</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1991-02-13T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>F-C16315M</emp_id>
+    <fname>Francisco</fname>
+    <minit> </minit>
+    <lname>Chang</lname>
+    <job_id>4</job_id>
+    <job_lvl>227</job_lvl>
+    <pub_id>9952</pub_id>
+    <hire_date>1990-11-03T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PTC11962M</emp_id>
+    <fname>Philip</fname>
+    <minit>T</minit>
+    <lname>Cramer</lname>
+    <job_id>2</job_id>
+    <job_lvl>215</job_lvl>
+    <pub_id>9952</pub_id>
+    <hire_date>1989-11-11T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>A-C71970F</emp_id>
+    <fname>Aria</fname>
+    <minit> </minit>
+    <lname>Cruz</lname>
+    <job_id>10</job_id>
+    <job_lvl>87</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1991-10-26T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>AMD15433F</emp_id>
+    <fname>Ann</fname>
+    <minit>M</minit>
+    <lname>Devon</lname>
+    <job_id>3</job_id>
+    <job_lvl>200</job_lvl>
+    <pub_id>9952</pub_id>
+    <hire_date>1991-07-16T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>ARD36773F</emp_id>
+    <fname>Anabela</fname>
+    <minit>R</minit>
+    <lname>Domingues</lname>
+    <job_id>8</job_id>
+    <job_lvl>100</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1993-01-27T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PHF38899M</emp_id>
+    <fname>Peter</fname>
+    <minit>H</minit>
+    <lname>Franken</lname>
+    <job_id>10</job_id>
+    <job_lvl>75</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1992-05-17T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PXH22250M</emp_id>
+    <fname>Paul</fname>
+    <minit>X</minit>
+    <lname>Henriot</lname>
+    <job_id>5</job_id>
+    <job_lvl>159</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1993-08-19T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>CFH28514M</emp_id>
+    <fname>Carlos</fname>
+    <minit>F</minit>
+    <lname>Hernadez</lname>
+    <job_id>5</job_id>
+    <job_lvl>211</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1989-04-21T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PDI47470M</emp_id>
+    <fname>Palle</fname>
+    <minit>D</minit>
+    <lname>Ibsen</lname>
+    <job_id>7</job_id>
+    <job_lvl>195</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1993-05-09T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>KJJ92907F</emp_id>
+    <fname>Karla</fname>
+    <minit>J</minit>
+    <lname>Jablonski</lname>
+    <job_id>9</job_id>
+    <job_lvl>170</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1994-03-11T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>KFJ64308F</emp_id>
+    <fname>Karin</fname>
+    <minit>F</minit>
+    <lname>Josephs</lname>
+    <job_id>14</job_id>
+    <job_lvl>100</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1992-10-17T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>MGK44605M</emp_id>
+    <fname>Matti</fname>
+    <minit>G</minit>
+    <lname>Karttunen</lname>
+    <job_id>6</job_id>
+    <job_lvl>220</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1994-05-01T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>POK93028M</emp_id>
+    <fname>Pirkko</fname>
+    <minit>O</minit>
+    <lname>Koskitalo</lname>
+    <job_id>10</job_id>
+    <job_lvl>80</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1993-11-29T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>JYL26161F</emp_id>
+    <fname>Janine</fname>
+    <minit>Y</minit>
+    <lname>Labrune</lname>
+    <job_id>5</job_id>
+    <job_lvl>172</job_lvl>
+    <pub_id>9901</pub_id>
+    <hire_date>1991-05-26T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>M-L67958F</emp_id>
+    <fname>Maria</fname>
+    <minit> </minit>
+    <lname>Larsson</lname>
+    <job_id>7</job_id>
+    <job_lvl>135</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1992-03-27T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>Y-L77953M</emp_id>
+    <fname>Yoshi</fname>
+    <minit> </minit>
+    <lname>Latimer</lname>
+    <job_id>12</job_id>
+    <job_lvl>32</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1989-06-11T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>LAL21447M</emp_id>
+    <fname>Laurence</fname>
+    <minit>A</minit>
+    <lname>Lebihan</lname>
+    <job_id>5</job_id>
+    <job_lvl>175</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1990-06-03T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>ENL44273F</emp_id>
+    <fname>Elizabeth</fname>
+    <minit>N</minit>
+    <lname>Lincoln</lname>
+    <job_id>14</job_id>
+    <job_lvl>35</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1990-07-24T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PCM98509F</emp_id>
+    <fname>Patricia</fname>
+    <minit>C</minit>
+    <lname>McKenna</lname>
+    <job_id>11</job_id>
+    <job_lvl>150</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1989-08-01T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>R-M53550M</emp_id>
+    <fname>Roland</fname>
+    <minit> </minit>
+    <lname>Mendel</lname>
+    <job_id>11</job_id>
+    <job_lvl>150</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1991-09-05T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>RBM23061F</emp_id>
+    <fname>Rita</fname>
+    <minit>B</minit>
+    <lname>Muller</lname>
+    <job_id>5</job_id>
+    <job_lvl>198</job_lvl>
+    <pub_id>1622</pub_id>
+    <hire_date>1993-10-09T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>HAN90777M</emp_id>
+    <fname>Helvetius</fname>
+    <minit>A</minit>
+    <lname>Nagy</lname>
+    <job_id>7</job_id>
+    <job_lvl>120</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1993-03-19T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>TPO55093M</emp_id>
+    <fname>Timothy</fname>
+    <minit>P</minit>
+    <lname>O'Rourke</lname>
+    <job_id>13</job_id>
+    <job_lvl>100</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1988-06-19T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>SKO22412M</emp_id>
+    <fname>Sven</fname>
+    <minit>K</minit>
+    <lname>Ottlieb</lname>
+    <job_id>5</job_id>
+    <job_lvl>150</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1991-04-05T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>MAP77183M</emp_id>
+    <fname>Miguel</fname>
+    <minit>A</minit>
+    <lname>Paolino</lname>
+    <job_id>11</job_id>
+    <job_lvl>112</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1992-12-07T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>PSP68661F</emp_id>
+    <fname>Paula</fname>
+    <minit>S</minit>
+    <lname>Parente</lname>
+    <job_id>8</job_id>
+    <job_lvl>125</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1994-01-19T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>M-P91209M</emp_id>
+    <fname>Manuel</fname>
+    <minit> </minit>
+    <lname>Pereira</lname>
+    <job_id>8</job_id>
+    <job_lvl>101</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1989-01-09T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>MJP25939M</emp_id>
+    <fname>Maria</fname>
+    <minit>J</minit>
+    <lname>Pontes</lname>
+    <job_id>5</job_id>
+    <job_lvl>246</job_lvl>
+    <pub_id>1756</pub_id>
+    <hire_date>1989-03-01T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>M-R38834F</emp_id>
+    <fname>Martine</fname>
+    <minit> </minit>
+    <lname>Rance</lname>
+    <job_id>9</job_id>
+    <job_lvl>75</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1992-02-05T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>DWR65030M</emp_id>
+    <fname>Diego</fname>
+    <minit>W</minit>
+    <lname>Roel</lname>
+    <job_id>6</job_id>
+    <job_lvl>192</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1991-12-16T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>A-R89858F</emp_id>
+    <fname>Annette</fname>
+    <minit> </minit>
+    <lname>Roulet</lname>
+    <job_id>6</job_id>
+    <job_lvl>152</job_lvl>
+    <pub_id>9999</pub_id>
+    <hire_date>1990-02-21T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>MMS49649F</emp_id>
+    <fname>Mary</fname>
+    <minit>M</minit>
+    <lname>Saveley</lname>
+    <job_id>8</job_id>
+    <job_lvl>175</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1993-06-29T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>CGS88322F</emp_id>
+    <fname>Carine</fname>
+    <minit>G</minit>
+    <lname>Schmitt</lname>
+    <job_id>13</job_id>
+    <job_lvl>64</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1992-07-07T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>MAS70474F</emp_id>
+    <fname>Margaret</fname>
+    <minit>A</minit>
+    <lname>Smith</lname>
+    <job_id>9</job_id>
+    <job_lvl>78</job_lvl>
+    <pub_id>1389</pub_id>
+    <hire_date>1988-09-29T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>HAS54740M</emp_id>
+    <fname>Howard</fname>
+    <minit>A</minit>
+    <lname>Snyder</lname>
+    <job_id>12</job_id>
+    <job_lvl>100</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1988-11-19T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>MFS52347M</emp_id>
+    <fname>Martin</fname>
+    <minit>F</minit>
+    <lname>Sommer</lname>
+    <job_id>10</job_id>
+    <job_lvl>165</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1990-04-13T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>GHT50241M</emp_id>
+    <fname>Gary</fname>
+    <minit>H</minit>
+    <lname>Thomas</lname>
+    <job_id>9</job_id>
+    <job_lvl>170</job_lvl>
+    <pub_id>0736</pub_id>
+    <hire_date>1988-08-09T00:00:00.0000000-04:00</hire_date>
+  </employee>
+  <employee>
+    <emp_id>DBT39435M</emp_id>
+    <fname>Daniel</fname>
+    <minit>B</minit>
+    <lname>Tonini</lname>
+    <job_id>11</job_id>
+    <job_lvl>75</job_lvl>
+    <pub_id>0877</pub_id>
+    <hire_date>1990-01-01T00:00:00.0000000-05:00</hire_date>
+  </employee>
+  <jobs>
+    <job_id>1</job_id>
+    <job_desc>New Hire - Job not specified</job_desc>
+    <min_lvl>10</min_lvl>
+    <max_lvl>10</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>2</job_id>
+    <job_desc>Chief Executive Officer</job_desc>
+    <min_lvl>200</min_lvl>
+    <max_lvl>250</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>3</job_id>
+    <job_desc>Business Operations Manager</job_desc>
+    <min_lvl>175</min_lvl>
+    <max_lvl>225</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>4</job_id>
+    <job_desc>Chief Financial Officier</job_desc>
+    <min_lvl>175</min_lvl>
+    <max_lvl>250</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>5</job_id>
+    <job_desc>Publisher</job_desc>
+    <min_lvl>150</min_lvl>
+    <max_lvl>250</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>6</job_id>
+    <job_desc>Managing Editor</job_desc>
+    <min_lvl>140</min_lvl>
+    <max_lvl>225</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>7</job_id>
+    <job_desc>Marketing Manager</job_desc>
+    <min_lvl>120</min_lvl>
+    <max_lvl>200</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>8</job_id>
+    <job_desc>Public Relations Manager</job_desc>
+    <min_lvl>100</min_lvl>
+    <max_lvl>175</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>9</job_id>
+    <job_desc>Acquisitions Manager</job_desc>
+    <min_lvl>75</min_lvl>
+    <max_lvl>175</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>10</job_id>
+    <job_desc>Productions Manager</job_desc>
+    <min_lvl>75</min_lvl>
+    <max_lvl>165</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>11</job_id>
+    <job_desc>Operations Manager</job_desc>
+    <min_lvl>75</min_lvl>
+    <max_lvl>150</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>12</job_id>
+    <job_desc>Editor</job_desc>
+    <min_lvl>25</min_lvl>
+    <max_lvl>100</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>13</job_id>
+    <job_desc>Sales Representative</job_desc>
+    <min_lvl>25</min_lvl>
+    <max_lvl>100</max_lvl>
+  </jobs>
+  <jobs>
+    <job_id>14</job_id>
+    <job_desc>Designer</job_desc>
+    <min_lvl>25</min_lvl>
+    <max_lvl>100</max_lvl>
+  </jobs>
+  <publishers>
+    <pub_id>0736</pub_id>
+    <pub_name>New Moon Books</pub_name>
+    <city>Boston</city>
+    <state>MA</state>
+    <country>USA</country>
+  </publishers>
+  <publishers>
+    <pub_id>0877</pub_id>
+    <pub_name>Binnet &amp; Hardley</pub_name>
+    <city>Washington</city>
+    <state>DC</state>
+    <country>USA</country>
+  </publishers>
+  <publishers>
+    <pub_id>1389</pub_id>
+    <pub_name>Algodata Infosystems</pub_name>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <country>USA</country>
+  </publishers>
+  <publishers>
+    <pub_id>1622</pub_id>
+    <pub_name>Five Lakes Publishing</pub_name>
+    <city>Chicago</city>
+    <state>IL</state>
+    <country>USA</country>
+  </publishers>
+  <publishers>
+    <pub_id>1756</pub_id>
+    <pub_name>Ramona Publishers</pub_name>
+    <city>Dallas</city>
+    <state>TX</state>
+    <country>USA</country>
+  </publishers>
+  <publishers>
+    <pub_id>9901</pub_id>
+    <pub_name>GGG&amp;G</pub_name>
+    <city>München</city>
+    <country>Germany</country>
+  </publishers>
+  <publishers>
+    <pub_id>9952</pub_id>
+    <pub_name>Scootney Books</pub_name>
+    <city>New York</city>
+    <state>NY</state>
+    <country>USA</country>
+  </publishers>
+  <publishers>
+    <pub_id>9999</pub_id>
+    <pub_name>Lucerne Publishing</pub_name>
+    <city>Paris</city>
+    <country>France</country>
+  </publishers>
+  <sales>
+    <stor_id>6380</stor_id>
+    <ord_num>6871</ord_num>
+    <ord_date>1994-09-14T00:00:00.0000000-04:00</ord_date>
+    <qty>5</qty>
+    <payterms>Net 60</payterms>
+    <title_id>BU1032</title_id>
+  </sales>
+  <sales>
+    <stor_id>6380</stor_id>
+    <ord_num>722a</ord_num>
+    <ord_date>1994-09-13T00:00:00.0000000-04:00</ord_date>
+    <qty>3</qty>
+    <payterms>Net 60</payterms>
+    <title_id>PS2091</title_id>
+  </sales>
+  <sales>
+    <stor_id>7066</stor_id>
+    <ord_num>A2976</ord_num>
+    <ord_date>1993-05-24T00:00:00.0000000-04:00</ord_date>
+    <qty>50</qty>
+    <payterms>Net 30</payterms>
+    <title_id>PC8888</title_id>
+  </sales>
+  <sales>
+    <stor_id>7066</stor_id>
+    <ord_num>QA7442.3</ord_num>
+    <ord_date>1994-09-13T00:00:00.0000000-04:00</ord_date>
+    <qty>75</qty>
+    <payterms>ON invoice</payterms>
+    <title_id>PS2091</title_id>
+  </sales>
+  <sales>
+    <stor_id>7067</stor_id>
+    <ord_num>D4482</ord_num>
+    <ord_date>1994-09-14T00:00:00.0000000-04:00</ord_date>
+    <qty>10</qty>
+    <payterms>Net 60</payterms>
+    <title_id>PS2091</title_id>
+  </sales>
+  <sales>
+    <stor_id>7067</stor_id>
+    <ord_num>P2121</ord_num>
+    <ord_date>1992-06-15T00:00:00.0000000-04:00</ord_date>
+    <qty>40</qty>
+    <payterms>Net 30</payterms>
+    <title_id>TC3218</title_id>
+  </sales>
+  <sales>
+    <stor_id>7067</stor_id>
+    <ord_num>P2121</ord_num>
+    <ord_date>1992-06-15T00:00:00.0000000-04:00</ord_date>
+    <qty>20</qty>
+    <payterms>Net 30</payterms>
+    <title_id>TC4203</title_id>
+  </sales>
+  <sales>
+    <stor_id>7067</stor_id>
+    <ord_num>P2121</ord_num>
+    <ord_date>1992-06-15T00:00:00.0000000-04:00</ord_date>
+    <qty>20</qty>
+    <payterms>Net 30</payterms>
+    <title_id>TC7777</title_id>
+  </sales>
+  <sales>
+    <stor_id>7131</stor_id>
+    <ord_num>N914008</ord_num>
+    <ord_date>1994-09-14T00:00:00.0000000-04:00</ord_date>
+    <qty>20</qty>
+    <payterms>Net 30</payterms>
+    <title_id>PS2091</title_id>
+  </sales>
+  <sales>
+    <stor_id>7131</stor_id>
+    <ord_num>N914014</ord_num>
+    <ord_date>1994-09-14T00:00:00.0000000-04:00</ord_date>
+    <qty>25</qty>
+    <payterms>Net 30</payterms>
+    <title_id>MC3021</title_id>
+  </sales>
+  <sales>
+    <stor_id>7131</stor_id>
+    <ord_num>P3087a</ord_num>
+    <ord_date>1993-05-29T00:00:00.0000000-04:00</ord_date>
+    <qty>20</qty>
+    <payterms>Net 60</payterms>
+    <title_id>PS1372</title_id>
+  </sales>
+  <sales>
+    <stor_id>7131</stor_id>
+    <ord_num>P3087a</ord_num>
+    <ord_date>1993-05-29T00:00:00.0000000-04:00</ord_date>
+    <qty>25</qty>
+    <payterms>Net 60</payterms>
+    <title_id>PS2106</title_id>
+  </sales>
+  <sales>
+    <stor_id>7131</stor_id>
+    <ord_num>P3087a</ord_num>
+    <ord_date>1993-05-29T00:00:00.0000000-04:00</ord_date>
+    <qty>15</qty>
+    <payterms>Net 60</payterms>
+    <title_id>PS3333</title_id>
+  </sales>
+  <sales>
+    <stor_id>7131</stor_id>
+    <ord_num>P3087a</ord_num>
+    <ord_date>1993-05-29T00:00:00.0000000-04:00</ord_date>
+    <qty>25</qty>
+    <payterms>Net 60</payterms>
+    <title_id>PS7777</title_id>
+  </sales>
+  <sales>
+    <stor_id>7896</stor_id>
+    <ord_num>QQ2299</ord_num>
+    <ord_date>1993-10-28T00:00:00.0000000-04:00</ord_date>
+    <qty>15</qty>
+    <payterms>Net 60</payterms>
+    <title_id>BU7832</title_id>
+  </sales>
+  <sales>
+    <stor_id>7896</stor_id>
+    <ord_num>TQ456</ord_num>
+    <ord_date>1993-12-12T00:00:00.0000000-05:00</ord_date>
+    <qty>10</qty>
+    <payterms>Net 60</payterms>
+    <title_id>MC2222</title_id>
+  </sales>
+  <sales>
+    <stor_id>7896</stor_id>
+    <ord_num>X999</ord_num>
+    <ord_date>1993-02-21T00:00:00.0000000-05:00</ord_date>
+    <qty>35</qty>
+    <payterms>ON invoice</payterms>
+    <title_id>BU2075</title_id>
+  </sales>
+  <sales>
+    <stor_id>8042</stor_id>
+    <ord_num>423LL922</ord_num>
+    <ord_date>1994-09-14T00:00:00.0000000-04:00</ord_date>
+    <qty>15</qty>
+    <payterms>ON invoice</payterms>
+    <title_id>MC3021</title_id>
+  </sales>
+  <sales>
+    <stor_id>8042</stor_id>
+    <ord_num>423LL930</ord_num>
+    <ord_date>1994-09-14T00:00:00.0000000-04:00</ord_date>
+    <qty>10</qty>
+    <payterms>ON invoice</payterms>
+    <title_id>BU1032</title_id>
+  </sales>
+  <sales>
+    <stor_id>8042</stor_id>
+    <ord_num>P723</ord_num>
+    <ord_date>1993-03-11T00:00:00.0000000-05:00</ord_date>
+    <qty>25</qty>
+    <payterms>Net 30</payterms>
+    <title_id>BU1111</title_id>
+  </sales>
+  <sales>
+    <stor_id>8042</stor_id>
+    <ord_num>QA879.1</ord_num>
+    <ord_date>1993-05-22T00:00:00.0000000-04:00</ord_date>
+    <qty>30</qty>
+    <payterms>Net 30</payterms>
+    <title_id>PC1035</title_id>
+  </sales>
+  <stores>
+    <stor_id>6380</stor_id>
+    <stor_name>Eric the Read Books</stor_name>
+    <stor_address>788 Catamaugus Ave.</stor_address>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98056</zip>
+  </stores>
+  <stores>
+    <stor_id>7066</stor_id>
+    <stor_name>Barnum's</stor_name>
+    <stor_address>567 Pasadena Ave.</stor_address>
+    <city>Tustin</city>
+    <state>CA</state>
+    <zip>92789</zip>
+  </stores>
+  <stores>
+    <stor_id>7067</stor_id>
+    <stor_name>News &amp; Brews</stor_name>
+    <stor_address>577 First St.</stor_address>
+    <city>Los Gatos</city>
+    <state>CA</state>
+    <zip>96745</zip>
+  </stores>
+  <stores>
+    <stor_id>7131</stor_id>
+    <stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+    <stor_address>24-A Avogadro Way</stor_address>
+    <city>Remulade</city>
+    <state>WA</state>
+    <zip>98014</zip>
+  </stores>
+  <stores>
+    <stor_id>7896</stor_id>
+    <stor_name>Fricative Bookshop</stor_name>
+    <stor_address>89 Madison St.</stor_address>
+    <city>Fremont</city>
+    <state>CA</state>
+    <zip>90019</zip>
+  </stores>
+  <stores>
+    <stor_id>8042</stor_id>
+    <stor_name>Bookbeat</stor_name>
+    <stor_address>679 Carson St.</stor_address>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>89076</zip>
+  </stores>
+  <titles>
+    <title_id>BU1032</title_id>
+    <title>The Busy Executive's Database Guide</title>
+    <type>business    </type>
+    <pub_id>1389</pub_id>
+    <price>19.9900</price>
+    <advance>5000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>4095</ytd_sales>
+    <notes>An overview of available database systems with emphasis on common business applications. Illustrated.</notes>
+    <pubdate>1991-06-12T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>BU1111</title_id>
+    <title>Cooking with Computers: Surreptitious Balance Sheets</title>
+    <type>business    </type>
+    <pub_id>1389</pub_id>
+    <price>11.9500</price>
+    <advance>5000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>3876</ytd_sales>
+    <notes>Helpful hints on how to use your electronic resources to the best advantage.</notes>
+    <pubdate>1991-06-09T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>BU2075</title_id>
+    <title>You Can Combat Computer Stress!</title>
+    <type>business    </type>
+    <pub_id>0736</pub_id>
+    <price>2.9900</price>
+    <advance>10125.0000</advance>
+    <royalty>24</royalty>
+    <ytd_sales>18722</ytd_sales>
+    <notes>The latest medical and psychological techniques for living with the electronic office. Easy-to-understand explanations.</notes>
+    <pubdate>1991-06-30T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>BU7832</title_id>
+    <title>Straight Talk About Computers</title>
+    <type>business    </type>
+    <pub_id>1389</pub_id>
+    <price>19.9900</price>
+    <advance>5000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>4095</ytd_sales>
+    <notes>Annotated analysis of what computers can do for you: a no-hype guide for the critical user.</notes>
+    <pubdate>1991-06-22T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>MC2222</title_id>
+    <title>Silicon Valley Gastronomic Treats</title>
+    <type>mod_cook    </type>
+    <pub_id>0877</pub_id>
+    <price>19.9900</price>
+    <advance>0</advance>
+    <royalty>12</royalty>
+    <ytd_sales>2032</ytd_sales>
+    <notes>Favorite recipes for quick, easy, and elegant meals.</notes>
+    <pubdate>1991-06-09T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>MC3021</title_id>
+    <title>The Gourmet Microwave</title>
+    <type>mod_cook    </type>
+    <pub_id>0877</pub_id>
+    <price>2.9900</price>
+    <advance>15000.0000</advance>
+    <royalty>24</royalty>
+    <ytd_sales>22246</ytd_sales>
+    <notes>Traditional French gourmet recipes adapted for modern microwave cooking.</notes>
+    <pubdate>1991-06-18T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>MC3026</title_id>
+    <title>The Psychology of Computer Cooking</title>
+    <type>UNDECIDED   </type>
+    <pub_id>0877</pub_id>
+    <pubdate>2000-08-06T01:33:54.1230000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PC1035</title_id>
+    <title>But Is It User Friendly?</title>
+    <type>popular_comp</type>
+    <pub_id>1389</pub_id>
+    <price>22.9500</price>
+    <advance>7000.0000</advance>
+    <royalty>16</royalty>
+    <ytd_sales>8780</ytd_sales>
+    <notes>A survey of software for the naive user, focusing on the 'friendliness' of each.</notes>
+    <pubdate>1991-06-30T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PC8888</title_id>
+    <title>Secrets of Silicon Valley</title>
+    <type>popular_comp</type>
+    <pub_id>1389</pub_id>
+    <price>20.0000</price>
+    <advance>8000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>4095</ytd_sales>
+    <notes>Muckraking reporting on the world's largest computer hardware and software manufacturers.</notes>
+    <pubdate>1994-06-12T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PC9999</title_id>
+    <title>Net Etiquette</title>
+    <type>popular_comp</type>
+    <pub_id>1389</pub_id>
+    <notes>A must-read for computer conferencing.</notes>
+    <pubdate>2000-08-06T01:33:54.1400000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PS1372</title_id>
+    <title>Computer Phobic AND Non-Phobic Individuals: Behavior Variations</title>
+    <type>psychology  </type>
+    <pub_id>0877</pub_id>
+    <price>21.5900</price>
+    <advance>7000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>375</ytd_sales>
+    <notes>A must for the specialist, this book examines the difference between those who hate and fear computers and those who don't.</notes>
+    <pubdate>1991-10-21T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PS2091</title_id>
+    <title>Is Anger the Enemy?</title>
+    <type>psychology  </type>
+    <pub_id>0736</pub_id>
+    <price>10.9500</price>
+    <advance>2275.0000</advance>
+    <royalty>12</royalty>
+    <ytd_sales>2045</ytd_sales>
+    <notes>Carefully researched study of the effects of strong emotions on the body. Metabolic charts included.</notes>
+    <pubdate>1991-06-15T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PS2106</title_id>
+    <title>Life Without Fear</title>
+    <type>psychology  </type>
+    <pub_id>0736</pub_id>
+    <price>7.0000</price>
+    <advance>6000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>111</ytd_sales>
+    <notes>New exercise, meditation, and nutritional techniques that can reduce the shock of daily interactions. Popular audience. Sample menus included, exercise video available separately.</notes>
+    <pubdate>1991-10-05T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PS3333</title_id>
+    <title>Prolonged Data Deprivation: Four Case Studies</title>
+    <type>psychology  </type>
+    <pub_id>0736</pub_id>
+    <price>19.9900</price>
+    <advance>2000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>4072</ytd_sales>
+    <notes>What happens when the data runs dry?  Searching evaluations of information-shortage effects.</notes>
+    <pubdate>1991-06-12T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>PS7777</title_id>
+    <title>Emotional Security: A New Algorithm</title>
+    <type>psychology  </type>
+    <pub_id>0736</pub_id>
+    <price>7.9900</price>
+    <advance>4000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>3336</ytd_sales>
+    <notes>Protecting yourself and your loved ones from undue emotional stress in the modern world. Use of computer and nutritional aids emphasized.</notes>
+    <pubdate>1991-06-12T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>TC3218</title_id>
+    <title>Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean</title>
+    <type>trad_cook   </type>
+    <pub_id>0877</pub_id>
+    <price>20.9500</price>
+    <advance>7000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>375</ytd_sales>
+    <notes>Profusely illustrated in color, this makes a wonderful gift book for a cuisine-oriented friend.</notes>
+    <pubdate>1991-10-21T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>TC4203</title_id>
+    <title>Fifty Years in Buckingham Palace Kitchens</title>
+    <type>trad_cook   </type>
+    <pub_id>0877</pub_id>
+    <price>11.9500</price>
+    <advance>4000.0000</advance>
+    <royalty>14</royalty>
+    <ytd_sales>15096</ytd_sales>
+    <notes>More anecdotes from the Queen's favorite cook describing life among English royalty. Recipes, techniques, tender vignettes.</notes>
+    <pubdate>1991-06-12T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titles>
+    <title_id>TC7777</title_id>
+    <title>Sushi, Anyone?</title>
+    <type>trad_cook   </type>
+    <pub_id>0877</pub_id>
+    <price>14.9900</price>
+    <advance>8000.0000</advance>
+    <royalty>10</royalty>
+    <ytd_sales>4095</ytd_sales>
+    <notes>Detailed instructions on how to make authentic Japanese sushi in your spare time.</notes>
+    <pubdate>1991-06-12T00:00:00.0000000-04:00</pubdate>
+  </titles>
+  <titleauthor>
+    <au_id>172-32-1176</au_id>
+    <title_id>PS3333</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>213-46-8915</au_id>
+    <title_id>BU1032</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>40</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>213-46-8915</au_id>
+    <title_id>BU2075</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>238-95-7766</au_id>
+    <title_id>PC1035</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>267-41-2394</au_id>
+    <title_id>BU1111</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>40</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>267-41-2394</au_id>
+    <title_id>TC7777</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>30</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>274-80-9391</au_id>
+    <title_id>BU7832</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>409-56-7008</au_id>
+    <title_id>BU1032</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>60</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>427-17-2319</au_id>
+    <title_id>PC8888</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>50</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>472-27-2349</au_id>
+    <title_id>TC7777</title_id>
+    <au_ord>3</au_ord>
+    <royaltyper>30</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>486-29-1786</au_id>
+    <title_id>PC9999</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>486-29-1786</au_id>
+    <title_id>PS7777</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>648-92-1872</au_id>
+    <title_id>TC4203</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>672-71-3249</au_id>
+    <title_id>TC7777</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>40</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>712-45-1867</au_id>
+    <title_id>MC2222</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>722-51-5454</au_id>
+    <title_id>MC3021</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>75</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>724-80-9391</au_id>
+    <title_id>BU1111</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>60</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>724-80-9391</au_id>
+    <title_id>PS1372</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>25</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>756-30-7391</au_id>
+    <title_id>PS1372</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>75</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>807-91-6654</au_id>
+    <title_id>TC3218</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>846-92-7186</au_id>
+    <title_id>PC8888</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>50</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>899-46-2035</au_id>
+    <title_id>MC3021</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>25</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>899-46-2035</au_id>
+    <title_id>PS2091</title_id>
+    <au_ord>2</au_ord>
+    <royaltyper>50</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>998-72-3567</au_id>
+    <title_id>PS2091</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>50</royaltyper>
+  </titleauthor>
+  <titleauthor>
+    <au_id>998-72-3567</au_id>
+    <title_id>PS2106</title_id>
+    <au_ord>1</au_ord>
+    <royaltyper>100</royaltyper>
+  </titleauthor>
+</Pubs>

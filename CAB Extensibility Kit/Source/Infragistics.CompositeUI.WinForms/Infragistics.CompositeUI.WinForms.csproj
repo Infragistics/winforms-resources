@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E9F028B3-3817-46FB-9324-EAAEF0DF5225}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infragistics.Practices.CompositeUI.WinForms</RootNamespace>
+    <AssemblyName>Infragistics.Practices.CompositeUI.WinForms</AssemblyName>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;RELEASE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics4.Shared.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Shared.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinDock.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinDock.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinExplorerBar.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinExplorerBar.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinStatusBar.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinStatusBar.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinTabbedMdi.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinTabbedMdi.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinTabControl.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinTabControl.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinToolbars.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinToolbars.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinTree.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.UltraWinTree.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.v24.2">
+      <HintPath>..\..\..\..\..\Documents\nightly-packages\WinForms\24.2\WinForms_ReleaseFiles_DLLEXE\Infragistics4.Win.v24.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.CompositeUI">
+      <HintPath>..\..\Samples\references\Microsoft.Practices.CompositeUI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.CompositeUI.WinForms">
+      <HintPath>..\..\Samples\references\Microsoft.Practices.CompositeUI.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder">
+      <HintPath>..\..\Samples\references\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Application\IGApplicationContextApplication.cs" />
+    <Compile Include="Application\IGFormShellApplication.cs" />
+    <Compile Include="Application\IGWindowsFormsApplicationBase.cs" />
+    <Compile Include="Commands\CommandAdapterBase.cs" />
+    <Compile Include="Commands\ExplorerBarCommandAdapter.cs" />
+    <Compile Include="Commands\ExplorerBarGroupCommandAdapter.cs" />
+    <Compile Include="Commands\StatusPanelCommandAdapter.cs" />
+    <Compile Include="Commands\ToolBaseCommandAdapter.cs" />
+    <Compile Include="Commands\TreeNodeCommandAdapter.cs" />
+    <Compile Include="Localization.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SmartPartInfo\ImageSmartPartInfo.cs">
+    </Compile>
+    <Compile Include="SmartPartInfo\UltraDockSmartPartInfo.cs">
+    </Compile>
+    <Compile Include="SmartPartInfo\UltraExplorerBarSmartPartInfo.cs">
+    </Compile>
+    <Compile Include="SmartPartInfo\UltraMdiTabSmartPartInfo.cs">
+    </Compile>
+    <Compile Include="SmartPartInfo\UltraTabSmartPartInfo.cs">
+    </Compile>
+    <Compile Include="SmartPartInfo\UltraToolbarsSmartPartInfo.cs">
+    </Compile>
+    <Compile Include="Strategy\IGWorkItemStrategy.cs" />
+    <Compile Include="Strategy\InkProviderStrategy.cs" />
+    <Compile Include="UIElements\ContextualTabGroupCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\ContextualTabGroupOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\ExplorerBarGroupOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\ExplorerBarGroupsCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\ExplorerBarItemOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\ExplorerBarItemsCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\RibbonGroupOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\RibbonGroupsCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\RibbonTabOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\RibbonTabsCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\StatusPanelOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\StatusPanelsCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\ExplorerBarUIAdapterFactory.cs" />
+    <Compile Include="UIElements\StatusBarUIAdapterFactory.cs" />
+    <Compile Include="UIElements\ToolbarsManagerUIAdapterFactory.cs" />
+    <Compile Include="UIElements\ToolBaseOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\ToolsCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\TreeNodeOwnerUIAdapter.cs" />
+    <Compile Include="UIElements\TreeNodesCollectionUIAdapter.cs" />
+    <Compile Include="UIElements\TreeUIAdapterFactory.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="Workspaces\ControlWorkspaceComposer.cs" />
+    <Compile Include="Workspaces\UltraDockWorkspace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Workspaces\UltraExplorerBarWorkspace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Workspaces\UltraMdiTabWorkspace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Workspaces\UltraTabWorkspace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Workspaces\UltraToolbarsManagerWorkspace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
